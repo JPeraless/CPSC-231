@@ -2,7 +2,6 @@
 # INSTRUCTOR: Jonathan Hudson
 # Tutorial: T01, Wei
 # Name: Jose Perales Rivera
-# ID: 30143354
 # Date: 20/10/2021
 
 ##################################################################
